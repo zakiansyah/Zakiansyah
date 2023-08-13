@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Zakiansyah**.\
 
-Saya seorang **Mahasiswa Informatika Semeseter 4** di [UAD](https://uad.ac.id/en/).\
+Saya seorang **Mahasiswa Informatika Semeseter 4** di [UAD](https://uad.ac.id/en/).
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/zaki-ansyah-5b5b85225/)ku ya.
 <!--
