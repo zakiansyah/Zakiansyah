@@ -1,6 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Zakiansyah**.\
+Perkenalkan nama saya **Zakiansyah**.
 
 Saya seorang **Mahasiswa Informatika Semeseter 4** di [UAD](https://uad.ac.id/en/).
 
