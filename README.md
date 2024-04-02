@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Zakiansyah**.
 
-Saya seorang **Mahasiswa Informatika Semester 5** di [UAD](https://uad.ac.id/en/).
+Saya seorang **Mahasiswa Informatika Semester 6** di [UAD](https://uad.ac.id/en/).
 
 - 🔭 Saya sekarang sedang menempuh pendidikan di [UAD](https://uad.ac.id/en/).
 - 🌱 Saya sekarang sedang belajar tentang Android Development
